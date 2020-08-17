@@ -1,2 +1,2 @@
 # bored
- Projects I do when I get bored
+Projects I undertake when I get bored
